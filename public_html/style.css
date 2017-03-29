@@ -1,0 +1,33 @@
+.center {
+    margin: 200px auto;
+    width: 50%;
+    padding: 10px;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.quote-container {
+    background-color: #FFF;
+    padding: 20px 30px;
+    border-radius: 10px;
+    width: 500px;
+}
+
+#author {
+    text-align: right;
+}
+
+#next {
+    padding: 10px 20px;
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#next:hover {
+    color: #000;
+}
